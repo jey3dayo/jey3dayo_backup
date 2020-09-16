@@ -1,16 +1,24 @@
-### Hi there 👋
+[![](https://raw.githubusercontent.com/jey3dayo/jey3dayo/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jey3dayo/jey3dayo/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/jey3dayo/jey3dayo/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!--
-**jey3dayo/jey3dayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=jey3dayo&color=green)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Who am I?
+
+```
+{
+  "name": "Junya Nakazato",
+  "job": "Front-End and Back-End Web Developer",
+  "live": "Okinawa, Japan",
+  "love": [ "Gadget", "Coffee" ],
+  "game": [ "League of Legends", "GUILTY GEAR XX ΛCORE and Xrd", "GBF" ],
+  "frontend": [ "React.js", "Material-UI", "React Native" ],
+  "backend": [ "Next.js", "Rails", "Java", "PHP", "Objective-C", "Spring Framework" ],
+  "infrastructure": [ "AWS", "ECS", "CloudFront", "Docker", "chef" ],
+  "ops": [ "CircleCI", "New Relic", "Datadog", "Sentry" ],
+  "tools": [ "Mac", "neoVim", "zsh", "XCode", "Vivaldi", "Vimperator" ]
+}
+```
+
