@@ -18,7 +18,7 @@
   "backend": [ "Next.js", "Rails", "Java", "PHP", "Objective-C", "Spring Framework" ],
   "infrastructure": [ "AWS", "ECS", "CloudFront", "Docker", "chef" ],
   "ops": [ "CircleCI", "New Relic", "Datadog", "Sentry" ],
-  "tools": [ "Mac", "neoVim", "zsh", "XCode", "Vivaldi", "Vimperator" ]
+  "tools": [ "Mac", "neoVim", "zsh", "Alacritty", "XCode", "Vivaldi", "Vimperator" ]
 }
 ```
 
