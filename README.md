@@ -5,20 +5,21 @@
 ![](https://komarev.com/ghpvc/?username=jey3dayo&color=green)
 
 
-### Who am I?
+### Who am I ?
 
 ```
 {
   "name": "Junya Nakazato",
   "job": "Front-End and Back-End Web Developer",
   "live": "Okinawa, Japan",
-  "love": [ "Gadget", "Coffee" ],
-  "game": [ "League of Legends", "GUILTY GEAR XX ΛCORE and Xrd", "GBF" ],
-  "frontend": [ "React.js", "Material-UI", "React Native" ],
-  "backend": [ "Next.js", "Rails", "Java", "PHP", "Objective-C", "Spring Framework" ],
-  "infrastructure": [ "AWS", "ECS", "CloudFront", "Docker", "chef" ],
-  "ops": [ "CircleCI", "New Relic", "Datadog", "Sentry" ],
-  "tools": [ "Mac", "neoVim", "zsh", "Alacritty", "XCode", "Vivaldi", "Vimperator" ]
+  "love": ["Coffee", "League of Legends", "GUILTY GEAR XX ΛCORE and Xrd"],
+  "frontend": ["React", "shadcn/ui", "Radix", "Material UI"],
+  "backend": ["Next.js", "Rails", "Java", "PHP", "Spring Framework"],
+  "mobile": ["React Native", "Objective-C", "App Center"],
+  "infrastructure": ["AWS", "ECS", "CloudFront", "Docker", "chef"],
+  "ops": ["Github Actions", "CircleCI", "New Relic", "Datadog", "Sentry"],
+  "tools": ["neovim", "WezTerm", "Zsh", "XCode", "Vivaldi", "Vimperator"]
 }
+
 ```
 
